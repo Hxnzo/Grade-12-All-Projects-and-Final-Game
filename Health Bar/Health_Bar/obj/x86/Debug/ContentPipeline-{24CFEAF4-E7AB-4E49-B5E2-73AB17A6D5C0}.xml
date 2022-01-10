@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Raul 1Up.png</Source>
+      <Name>Raul 1Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Raul 1Up.xnb</Output>
+      <Time>2019-11-11T12:56:17.4172794-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Raul Down.png</Source>
+      <Name>Raul Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Raul Down.xnb</Output>
+      <Time>2019-11-11T12:56:23.0786032-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Raul Left.png</Source>
+      <Name>Raul Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Raul Left.xnb</Output>
+      <Time>2019-11-11T12:56:31.221069-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Raul Right.png</Source>
+      <Name>Raul Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Raul Right.xnb</Output>
+      <Time>2019-11-11T12:56:38.1514653-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Medicine Bottle.png</Source>
+      <Name>Medicine Bottle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Medicine Bottle.xnb</Output>
+      <Time>2019-11-11T12:56:43.0567459-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Hospital Parking Lot.png</Source>
+      <Name>Hospital Parking Lot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Hospital Parking Lot.xnb</Output>
+      <Time>2019-11-11T12:56:48.234042-05:00</Time>
+    </Item>
+    <Item>
+      <Source>AmbulanceBackward.png</Source>
+      <Name>AmbulanceBackward</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\AmbulanceBackward.xnb</Output>
+      <Time>2019-11-11T12:57:58.0200336-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Red.jpg</Source>
+      <Name>Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Red.xnb</Output>
+      <Time>2019-11-11T12:59:20.2387362-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{24CFEAF4-E7AB-4E49-B5E2-73AB17A6D5C0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_BarContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-02-07T11:02:25.5912805-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
