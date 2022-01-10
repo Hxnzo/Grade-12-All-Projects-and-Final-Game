@@ -1,0 +1,2 @@
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Moodlight Lab\Moodlight Lab\Moodlight_LabContent\obj\x86\Debug\Moodlight_LabContent.contentprojResolveAssemblyReference.cache
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Grade 12\Level 2\Moodlight Lab\Moodlight Lab\Moodlight_LabContent\obj\x86\Debug\Moodlight_LabContent.contentprojResolveAssemblyReference.cache

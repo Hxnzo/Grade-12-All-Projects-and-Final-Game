@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moodlight_Lab", "Moodlight Lab\Moodlight_Lab\Moodlight_Lab.csproj", "{FB833133-3062-4782-BB45-E757AEC46C45}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Moodlight_LabContent", "Moodlight Lab\Moodlight_LabContent\Moodlight_LabContent.contentproj", "{1BBF821C-43A9-4E33-8AFE-FBD46094D4E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB833133-3062-4782-BB45-E757AEC46C45}.Debug|x86.ActiveCfg = Debug|x86
+		{FB833133-3062-4782-BB45-E757AEC46C45}.Debug|x86.Build.0 = Debug|x86
+		{FB833133-3062-4782-BB45-E757AEC46C45}.Release|x86.ActiveCfg = Release|x86
+		{FB833133-3062-4782-BB45-E757AEC46C45}.Release|x86.Build.0 = Release|x86
+		{1BBF821C-43A9-4E33-8AFE-FBD46094D4E8}.Debug|x86.ActiveCfg = Debug|x86
+		{1BBF821C-43A9-4E33-8AFE-FBD46094D4E8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
