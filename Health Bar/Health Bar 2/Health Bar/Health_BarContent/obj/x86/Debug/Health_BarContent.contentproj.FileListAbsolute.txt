@@ -1,1 +1,0 @@
-c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_BarContent\obj\x86\Debug\Health_BarContent.contentprojResolveAssemblyReference.cache
