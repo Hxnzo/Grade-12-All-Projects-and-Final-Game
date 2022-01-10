@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Color_nerve_lab", "Color nerve lab\Color_nerve_lab\Color_nerve_lab.csproj", "{32DBCF6D-9330-4883-9F31-1DFFA2EF4120}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Color_nerve_labContent", "Color nerve lab\Color_nerve_labContent\Color_nerve_labContent.contentproj", "{CEB54E49-B47F-4C4E-8562-532044F0C7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32DBCF6D-9330-4883-9F31-1DFFA2EF4120}.Debug|x86.ActiveCfg = Debug|x86
+		{32DBCF6D-9330-4883-9F31-1DFFA2EF4120}.Debug|x86.Build.0 = Debug|x86
+		{32DBCF6D-9330-4883-9F31-1DFFA2EF4120}.Release|x86.ActiveCfg = Release|x86
+		{32DBCF6D-9330-4883-9F31-1DFFA2EF4120}.Release|x86.Build.0 = Release|x86
+		{CEB54E49-B47F-4C4E-8562-532044F0C7BC}.Debug|x86.ActiveCfg = Debug|x86
+		{CEB54E49-B47F-4C4E-8562-532044F0C7BC}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

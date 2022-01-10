@@ -1,0 +1,2 @@
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_labContent\obj\x86\Debug\Color_nerve_labContent.contentprojResolveAssemblyReference.cache
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_labContent\obj\x86\Debug\Color_nerve_labContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeginnersLuckReal", "BeginnersLuckReal\BeginnersLuckReal\BeginnersLuckReal.csproj", "{A2A1D7E8-C3D9-4A6E-923D-FB8E1F6E5576}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "BeginnersLuckRealContent", "BeginnersLuckReal\BeginnersLuckRealContent\BeginnersLuckRealContent.contentproj", "{28A50D9A-B7E1-4235-942F-FD6B68F33301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A1D7E8-C3D9-4A6E-923D-FB8E1F6E5576}.Debug|x86.ActiveCfg = Debug|x86
+		{A2A1D7E8-C3D9-4A6E-923D-FB8E1F6E5576}.Debug|x86.Build.0 = Debug|x86
+		{A2A1D7E8-C3D9-4A6E-923D-FB8E1F6E5576}.Release|x86.ActiveCfg = Release|x86
+		{A2A1D7E8-C3D9-4A6E-923D-FB8E1F6E5576}.Release|x86.Build.0 = Release|x86
+		{28A50D9A-B7E1-4235-942F-FD6B68F33301}.Debug|x86.ActiveCfg = Debug|x86
+		{28A50D9A-B7E1-4235-942F-FD6B68F33301}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

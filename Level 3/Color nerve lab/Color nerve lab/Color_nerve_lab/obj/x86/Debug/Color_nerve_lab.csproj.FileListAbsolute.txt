@@ -1,0 +1,32 @@
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Color_nerve_lab.exe
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Color_nerve_lab.pdb
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\obj\x86\Debug\Color_nerve_lab.csprojResolveAssemblyReference.cache
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\obj\x86\Debug\Color_nerve_lab.exe
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Color nerve lab\Color nerve lab\Color_nerve_lab\obj\x86\Debug\Color_nerve_lab.pdb
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\obj\x86\Debug\Color_nerve_lab.csprojResolveAssemblyReference.cache
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\obj\x86\Debug\Color_nerve_lab.exe
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\obj\x86\Debug\Color_nerve_lab.pdb
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Color_nerve_lab.exe
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Color_nerve_lab.pdb
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Hanzo\Documents\Visual Studio 2015\Projects\Level 3\Color nerve lab\Color nerve lab\Color_nerve_lab\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
