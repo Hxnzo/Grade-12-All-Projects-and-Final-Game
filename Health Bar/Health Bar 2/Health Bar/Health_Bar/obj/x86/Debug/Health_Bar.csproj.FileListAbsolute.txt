@@ -1,0 +1,24 @@
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Raul 1Up.xnb
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Raul Down.xnb
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Raul Left.xnb
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Raul Right.xnb
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Medicine Bottle.xnb
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Hospital Parking Lot.xnb
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Health_Bar.exe
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Health_Bar.pdb
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\obj\x86\Debug\Health_Bar.csprojResolveAssemblyReference.cache
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\obj\x86\Debug\Health_Bar.exe
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\obj\x86\Debug\Health_Bar.pdb
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\AmbulanceBackward.xnb
+c:\users\hanzo\documents\visual studio 2015\Projects\Health Bar\Health Bar\Health_Bar\bin\x86\Debug\Content\Red.xnb
